@@ -10,7 +10,7 @@ PC installed with SCILAB
 clear;
 clc;
 close all;
-xn = [1 2 3 4 4 3 2 1];
+xn = [1 2 3 4 ];
 n1 = 0:1:length(xn)-1;
 subplot(2,2,1);
 plot2d3(n1, xn);
